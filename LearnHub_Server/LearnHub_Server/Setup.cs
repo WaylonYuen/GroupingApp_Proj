@@ -11,7 +11,7 @@ namespace Setup {
     public static class RefConnection {
 
         //服務器
-        public const string sHost = "169.254.111.178"; //192.168.0.129"; //NetworkUtil.GetLocalIPv4();                 //連接地址
+        public const string sHost = "127.0.0.1"; //192.168.0.129"; //NetworkUtil.GetLocalIPv4();                 //連接地址
         public const int sPort = 8088;                                          //連接端口
 
         //資料庫
