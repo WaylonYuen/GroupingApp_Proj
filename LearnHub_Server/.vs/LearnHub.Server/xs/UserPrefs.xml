@@ -9,7 +9,7 @@
       <File FileName="LearnHub_Server/DataBase/MySQL.cs" Line="104" Column="10" NotebookId="1" />
       <File FileName="LearnHub_Server/Game/Data/DataBuffer/ClientData.cs" NotebookId="1" />
       <File FileName="LearnHub_Server/Server/Server.cs" Line="79" Column="59" NotebookId="1" />
-      <File FileName="LearnHub_Server/Setup.cs" Line="14" Column="37" NotebookId="1" />
+      <File FileName="LearnHub_Server/Setup.cs" Line="14" Column="47" NotebookId="1" />
       <File FileName="LearnHub_Server/Network/Packet.cs" NotebookId="1" />
     </Files>
     <Pads>
